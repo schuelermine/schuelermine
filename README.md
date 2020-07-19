@@ -8,14 +8,13 @@ I mostly code in Haskell. I also know Python and some scripting languages (Fish 
 
 ### Contents:
 
-- About Me
-- Contents
-- Solid Projects
-- Web Presence & Contact
-- Social Media
-- Future Projects
-- (Hopefully) Finished Projects
-- Trivia
+- [About Me](https://github.com/schuelermine#hello-im-anselm-sch%C3%BCler)
+- [Contents](https://github.com/schuelermine#contents)
+- [Solid Projects](https://github.com/schuelermine#solid-projects)
+- [Web Presence & Contact](https://github.com/schuelermine#web-presence--contact)
+- [Future Projects](https://github.com/schuelermine#solid-projects)
+- [(Hopefully) Finished Projects](https://github.com/schuelermine#hopefully-finished-projects)
+- [Trivia](https://github.com/schuelermine#trivia)
 
 ### Solid Projects:
 
