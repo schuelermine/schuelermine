@@ -22,7 +22,7 @@ These are projects that I still work on, but they're in a usable state.
 
 - [hextra](https://github.com/schuelermine/hextra): A suite of miscellaneous functions for Haskell.
 - [shell-terminal-configs](https://github.com/schuelermine/shell-terminal-configs): Some nice-looking (in my opinion) shell configs. Currently for Fish and Powershell.
-- [gaussian](https://github.com/schuelermine/hextra): A Haskell library for Gaussian integers. Currently is missing division functionality (should be possible, ℤ² is a Eucliden domain).
+- [gaussian](https://github.com/schuelermine/hextra): A Haskell library for Gaussian integers. Currently is missing division functionality (should be possible, ℤ² is a euclidean domain).
 
 ### Web Presence & Contact
 
