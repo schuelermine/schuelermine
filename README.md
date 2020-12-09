@@ -26,14 +26,14 @@ These are projects that I still work on, but they're in a usable state.
 
 ### Web Presence & Contact
 
-My website is at [www.anselmschueler.com](https://www.anselmschueler.com). The `www` is necessary.
+My website is at [www.anselmschueler.com](https://www.anselmschueler.com). Unfortunately, most content of my [old site](https://sites.google.com/view/anselmschueler) hasn't been migrated yet.
 
 I'm personally on...
 - Twitter as [@pisquaredbyi](https://twitter.com/pisquaredbyi)
 - Reddit as [u/numerousblocks](https://www.reddit.com/user/numerousblocks/)
 
 I'm also on [StackExchange, and, by extension, StackOverflow](https://stackexchange.com/users/10918971/schuelermine?tab=accounts). You might need to scroll down to see the individual accounts (like StackOverflow).
-My website also lists some more accounts that I set up to be more business-like. They don't have any content currently.
+My old website also lists some more accounts that I set up to be more business-like. They don't have any content currently.
 
 #### You can contact me per e-mail at [mail@anselmschueler.com](mailto:mail@anselmschueler.com).
 #### For Git-specific feedback, use [git@anselmschueler.com](mailto:git@anselmschueler.com).
