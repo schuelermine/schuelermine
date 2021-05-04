@@ -45,7 +45,7 @@ I’m personally on…
 I’m also on [StackExchange, and, by extension, StackOverflow](https://stackexchange.com/users/10918971/schuelermine?tab=accounts). You might need to scroll down to see the individual accounts (like StackOverflow).
 My old website also lists some more accounts that I set up to be more business-like. They don’t have any content currently.
 
-**You can contact me per e-mail at [mail@anselmschueler.com](mailto:mail@anselmschueler.com).**
+**You can contact me per e-mail at [mail@anselmschueler.com](mailto:mail@anselmschueler.com).**  
 **If I lose access to that domain and can’t answer, try [anselmschueler@gmail.com](mailto:anselmschueler@gmail.com).**
 
 ## Future Projects
