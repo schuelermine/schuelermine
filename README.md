@@ -4,10 +4,10 @@ Here, you can find some of my work and some info about me.
 
 I’m a student that lives in Berlin. I’m interested in mathematics and coding.
 
-The programming languages I know are Haskell, JavaScript (& TypeScript) and Python.  
-I’ve got a bit of experience with Haskell and know a bunch, but I’ve only used it for backend & abstract modules.  
-I know quite a bit about JavaScript & TypeScript, after using them for my website.  
-My python knowledge is okay.
+The programming languages I know are Haskell, JavaScript (TypeScript) and Python.  
+I’ve got a bit of experience with Haskell and know a bunch, but I’ve only used it for backend, abstract modules.  
+I know quite a bit about JavaScript and TypeScript, after using them for my website.  
+My Python knowledge is okay.
 
 I also know a few scripting languages (mostly for hacking stuff together), mostly Fish scripts and PowerShell scripts.
 
