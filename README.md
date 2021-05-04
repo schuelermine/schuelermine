@@ -63,7 +63,7 @@ These are projects that I won’t be working on and that are done and in accepta
 ## Trivia
 
 - I use [VS Code](https://code.visualstudio.com/) for programming.
-- My fonts of choice are [Cascadia Code](https://github.com/microsoft/cascadia-code/), [Noto Serif](https://www.google.com/get/noto/), and [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918).
+- My fonts of choice are [Cascadia Code](https://github.com/microsoft/cascadia-code/), [Noto Serif](https://www.google.com/get/noto/), [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918), and the [IBM Plex](https://www.ibm.com/plex/) family.
 - The OS I’m using is [Pop!_OS](https://pop.system76.com/).
 - I use the [friendly interactive shell (fish)](https://fishshell.com/) as my command-line shell.
 
