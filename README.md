@@ -21,6 +21,7 @@ I’m also currently in the process of learning Java.
 - [Contents](https://github.com/schuelermine#contents)
 - [Solid Projects](https://github.com/schuelermine#solid-projects)
 - [Web Presence & Contact](https://github.com/schuelermine#web-presence--contact)
+- [Other interests](https://github.com/schuelermine#other-interests)
 - [Future Projects](https://github.com/schuelermine#solid-projects)
 - [(Hopefully) Finished Projects](https://github.com/schuelermine#hopefully-finished-projects)
 - [Trivia](https://github.com/schuelermine#trivia)
@@ -47,6 +48,13 @@ My old website also lists some more accounts that I set up to be more business-l
 
 **You can contact me per e-mail at [mail@anselmschueler.com](mailto:mail@anselmschueler.com).**  
 **If I lose access to that domain and can’t answer, try [anselmschueler@gmail.com](mailto:anselmschueler@gmail.com).**
+
+## Other interests
+
+I am interested in maths & science, in particular abstract mathematics & theoretical physics.  
+I also often draw or doodle diagrams, formulae, concepts, and other meaningless things.  
+Occasionally I dabble in 3D modelling with [Blender](https://blender.org/), and rendering 3D scenes.  
+I also quite enjoy music and can somewhat play the accordion and the piano. I sing occasionally & also write amateurish sheet music with [MuseScore](https://musescore.org).
 
 ## Future Projects
 
