@@ -1,3 +1,4 @@
 # Hello. I'm Anselm Schüler
 
-This README has been removed, it was no longer accurate. A new README is in development!
+Student at TU Berlin studying computer science.
+More info available at some point in the future.
