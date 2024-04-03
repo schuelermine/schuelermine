@@ -1,4 +1,3 @@
-# Hello. I'm Anselm Schüler
+# Hi, I'm Anselm Schüler
 
-Student at TU Berlin studying computer science.
-More info available at some point in the future.
+For more information, and for a small collection of various writing, visit https://anselmschueler.com.
